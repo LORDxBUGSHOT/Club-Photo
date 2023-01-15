@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">clubphoto</string>
+    <string name="start_now">Start Now</string>
+    <string name="todo">TODO</string>
+    <string name="club_photo">Club Photo</string>
+</resources>
